@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\Akaryakıt\Akaryakıt\bin\Debug\Akaryakıt.exe.config
+C:\Users\LENOVO\source\repos\Akaryakıt\Akaryakıt\bin\Debug\Akaryakıt.exe
+C:\Users\LENOVO\source\repos\Akaryakıt\Akaryakıt\bin\Debug\Akaryakıt.pdb
+C:\Users\LENOVO\source\repos\Akaryakıt\Akaryakıt\obj\Debug\Akaryakıt.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Akaryakıt\Akaryakıt\obj\Debug\Akaryakıt.Form1.resources
+C:\Users\LENOVO\source\repos\Akaryakıt\Akaryakıt\obj\Debug\Akaryakıt.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Akaryakıt\Akaryakıt\obj\Debug\Akaryakıt.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Akaryakıt\Akaryakıt\obj\Debug\Akaryakıt.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Akaryakıt\Akaryakıt\obj\Debug\Akaryakıt.exe
+C:\Users\LENOVO\source\repos\Akaryakıt\Akaryakıt\obj\Debug\Akaryakıt.pdb
